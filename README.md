@@ -11,7 +11,7 @@
 - 🧠 Passionate about **AI**, **product development**, and **data-driven decisions**
 - 🛠️ Building: [DeRiver Carpool App](https://github.com/buikhueanh/DeRiver_Carpool_App), [DeFind](https://github.com/buikhueanh/DeFind)
 - 💬 Ask me about: Data structures, Product strategy, Resume reviews
-- 📫 Reach me at: [anhbui@email.com](mailto:khueanhbui@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anh-k-bui-b3954b212/)
+- 📫 Reach me at: [khueanhbui@gmail.com](mailto:khueanhbui@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anh-k-bui-b3954b212/)
 
 ---
 
