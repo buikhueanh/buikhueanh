@@ -30,7 +30,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🚌 DeRiver Carpool App](https://github.com/buikhueanh/DeRiver_Carpool_App) | A Vue + Firebase platform to help DePauw students coordinate rides | `Vue`, `Firebase`, `TailwindCSS` |
+| [🚌 DeRiver Carpool App](https://github.com/buikhueanh/DeRiver_Carpool_App) | A Vue + Firebase platform to help DePauw students coordinate rides | `Vue`, `Firebase` |
 | [🧮 Sudoku Solver](https://github.com/buikhueanh/Sudoku_Solver) | Recursive backtracking solver that parses from `.txt` input files | `Java`, `File I/O`, `Recursion` |
 | [🧠 8-Tile Puzzle Solver](https://github.com/buikhueanh/8-Tile_Puzzle_Solver) | Solves tile puzzles using `BFS` and `A*` search | `Python`, `heapq`, `deque` |
 | [🤖 Personal Chatbot](https://github.com/buikhueanh/personal_chatbot) | A Python tutor chatbot with OpenAI's GPT API | `FastAPI`, `WebSockets`, `OpenAI API` |
