@@ -37,14 +37,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anhbui&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
